@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://myDataBase:Lynuk@3051@cluster0.bz3x1.gcp.mongodb.net/mern-shopping-list?retryWrites=true&w=majority",
+  "jwtSecret": "sl_myJwtSecret"
+}
